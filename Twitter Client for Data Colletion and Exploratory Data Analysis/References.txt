@@ -1,0 +1,14 @@
+jupyter notebook --NotebookApp.iopub_data_rate_limit=1.0e10
+
+References:
+http://rstudio-pubs-static.s3.amazonaws.com/3256_bb10db1440724dac8fa40da5e658ada5.html
+https://plot.ly/r/graphing-multiple-chart-types/#bar-and-line-chart
+https://plot.ly/r/bar-charts/#stacked-bar-chart
+https://stackoverflow.com/questions/29322556/drawing-colored-us-state-map-with-cut-number-in-r
+https://datascience.stackexchange.com/questions/9616/how-to-create-us-state-heatmap
+https://stackoverflow.com/questions/43288550/iopub-data-rate-exceeded-when-viewing-image-in-jupyter-notebook
+https://stackoverflow.com/questions/19330949/r-how-to-save-lists-into-csv
+https://stackoverflow.com/questions/11674842/how-to-extract-tweet-geocode-in-twitter-package-in-r
+https://gist.github.com/dsparks/4329876
+https://stackoverflow.com/questions/8751497/latitude-longitude-coordinates-to-state-code-in-r
+https://stackoverflow.com/questions/26969166/counting-occurrences-in-data-frame-in-r
