@@ -1,3 +1,7 @@
+## Data Integration, Big Data Analysis And Visualisation Apache Hadoop
+
+### Steps :
+
 1. Collected twitter data and NYTimes articles by querying the API on topic of current interest.
 2. Processed the gathered twitter and NYTimes data using R packages for twitter data and bs4 library for NYTimes articles.
 3. Adopted MapReduce programming model to handle big data.
