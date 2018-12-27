@@ -1,4 +1,4 @@
-# Twitter Client for Data Colletion and Exploratory Data Analysis
+## Twitter Client for Data Colletion and Exploratory Data Analysis
 
 ### Steps : 
 
